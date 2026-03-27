@@ -1,0 +1,19 @@
+{
+  "students": [
+    {
+      "name": "nani babu raniprasad sandeep",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ1wmRR_sZXkm4bhHA9m6hesQwsVNhTTLO8Q&s",
+      "id": "2"
+    },
+    {
+      "id": "edb0",
+      "name": "Thala",
+      "img": "https://tse2.mm.bing.net/th/id/OIP.cogDXZittVXCD6H1kLkEmgHaJQ?rs=1&pid=ImgDetMain&o=7&rm=3"
+    },
+    {
+      "id": "0a7c",
+      "name": "sreya",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWNwdgWTBooQwad9V92ueIMqB_y1lm8pJegg&s"
+    }
+  ]
+}
